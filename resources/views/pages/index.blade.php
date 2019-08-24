@@ -44,22 +44,22 @@ Ferosh | Thiết kế thời trang cao cấp
 		<!-- San phẩm -->
 		<div class="list-product">
 			<div class="phantrang">
-				<a href="#">Bộ sưu tập</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Bộ sưu tập</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="#">Sản phẩm</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Sản phẩm</a>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -72,25 +72,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -103,25 +103,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -134,25 +134,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -165,17 +165,17 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
 			</div>
 			<div class="view-more">
-				<button class="btn btn-primary mt-3 mb-3"><a href="#">Xem thêm</a></button>
+				<button class="btn btn-primary mt-3 mb-3"><a href="{{route('chi-tiet-san-pham')}}">Xem thêm</a></button>
 			</div>
 		</div>
 		<div class="list-product">
@@ -183,22 +183,22 @@ Ferosh | Thiết kế thời trang cao cấp
 				<img src="{{asset('image/banner-quystoc.jpg')}}" alt="">
 			</div>
 			<div class="phantrang">
-				<a href="#">Bộ sưu tập</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Bộ sưu tập</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="#">Sản phẩm</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Sản phẩm</a>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/NH311-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/NH311-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -211,25 +211,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/NH311-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/NH311-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -242,25 +242,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/NH311-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/NH311-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -273,25 +273,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/NH311-1(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/NH311-2(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -304,17 +304,17 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
 			</div>
 			<div class="view-more">
-				<button class="btn btn-primary mt-3 mb-3"><a href="#">Xem thêm</a></button>
+				<button class="btn btn-primary mt-3 mb-3"><a href="{{route('chi-tiet-san-pham')}}">Xem thêm</a></button>
 			</div>
 		</div>
 		<div class="list-product">
@@ -322,22 +322,22 @@ Ferosh | Thiết kế thời trang cao cấp
 				<img src="{{asset('image/banner-sale.jpg')}}" alt="">
 			</div>
 			<div class="phantrang">
-				<a href="#">Bộ sưu tập</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Bộ sưu tập</a>
 				&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="#">Sản phẩm</a>
+				<a href="{{route('chi-tiet-san-pham')}}">Sản phẩm</a>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/set-16(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/set-16-(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -350,25 +350,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/set-16(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/set-16-(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Mục yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng	"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -381,25 +381,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/set-16(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/set-16-(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -412,25 +412,25 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
         		<div class="col-md-3 col-sm-6">
 		            <div class="product-grid">
 		                <div class="product-image">
-		                    <a href="#">
+		                    <a href="{{route('chi-tiet-san-pham')}}">
 		                        <img class="pic-1" src="{{asset('image/set-16(1).jpg')}}">
 		                        <img class="pic-2" src="{{asset('image/set-16-(1).jpg')}}">
 		                    </a>
 		                    <ul class="social">
-		                        <li><a href="" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
-		                        <li><a href="" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
-		                        <li><a href="" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Xem nhanh"><i class="fa fa-search"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Yêu thích"><i class="fa fa-shopping-bag"></i></a></li>
+		                        <li><a href="{{route('chi-tiet-san-pham')}}" data-tip="Thêm vào giỏ hàng"><i class="fa fa-shopping-cart"></i></a></li>
 		                    </ul>
 		                    <span class="product-new-label">Sale</span>
 		                    <span class="product-discount-label">20%</span>
@@ -443,17 +443,17 @@ Ferosh | Thiết kế thời trang cao cấp
 		                    <li class="fa fa-star disable"></li>
 		                </ul>
 		                <div class="product-content">
-		                    <h3 class="title"><a href="#">Women's Blouse</a></h3>
+		                    <h3 class="title"><a href="{{route('chi-tiet-san-pham')}}">Women's Blouse</a></h3>
 		                    <div class="price">810.000 VND
 		                        <span>900.000 VND</span>
 		                    </div>
-		                    <a class="add-to-cart" href="">+ Add To Cart</a>
+		                    <a class="add-to-cart" href="{{route('chi-tiet-san-pham')}}">+ Add To Cart</a>
 		                </div>
 		            </div>
         		</div>
 			</div>
 			<div class="view-more">
-				<button class="btn btn-primary mt-3 mb-3"><a href="#">Xem thêm</a></button>
+				<button class="btn btn-primary mt-3 mb-3"><a href="{{route('chi-tiet-san-pham')}}">Xem thêm</a></button>
 			</div>
 		</div>
 	</div>

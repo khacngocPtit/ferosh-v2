@@ -35,7 +35,7 @@ Route::get('/colection', function () {
 });
 Route::get('/chi-tiet-san-pham', function () {
     return view('pages.chitietsanpham');
-});
+})->name('chi-tiet-san-pham');
 
 Route::get('/san-pham', function () {
     return view('pages.sanpham');
