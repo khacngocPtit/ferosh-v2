@@ -13,6 +13,7 @@ img {
     object-fit: cover;
     background-color: #efefef;
     max-width: 100%;
+    margin:auto;
 }
 
 .top-menu ul {

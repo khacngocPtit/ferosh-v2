@@ -533,3 +533,12 @@ p.old-price {
 
 
 /* ----------------Responsive----------------*/
+@media only screen and (max-width: 425px){
+    .size-of-product li{
+        width: 20%;
+    }
+    a.btn.btn-danger{
+    font-size: 13px;
+    margin-bottom: 0.5rem;
+    }
+}

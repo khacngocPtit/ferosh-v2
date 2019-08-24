@@ -24,8 +24,8 @@ Chi tiết sản phẩm
                         <!-- Images -->
                         <div class="exzoom_img_box">
                             <ul class='exzoom_img_ul'>
-                            <li><img style="width:100%;magin:auto;" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}"/></li>
-                            <li><img style="width:100%;magin:auto;" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}"/></li>
+                            <li><img style="width:100%; margin:auto;" src="{{asset('image/Cindy-Dress-Black-1(1).jpg')}}"/></li>
+                            <li><img style="width:100%; margin:auto;" src="{{asset('image/Cindy-Dress-Black-2(1).jpg')}}"/></li>
                                 
                             </ul>
                         </div>
