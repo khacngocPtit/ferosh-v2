@@ -1,0 +1,51 @@
+
+.box-gray{
+	background-color: #f5f5f5;
+	width: 100%;
+	margin-bottom: 50px;
+}
+.box-gray .aaa{
+	
+}
+.box-gray  .aaa input{
+	width: 50%;
+	margin-top: 5%;
+	height: 30px;
+}
+.box-gray  .aaa .a {
+	font-size: 12px;
+}
+.btn-black {
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    float: right;
+}
+.btn {
+    height: 30px;
+    padding: 5px 15px;
+    font-size: 10px;
+    border-radius: 0;
+    min-width: 160px;
+}
+.btn-fb {
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    /*margin-top: 10px;*/
+}
+.btn:hover{
+ background-color: red;
+ color: #fff;
+}
+.dnn{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.aaa{
+	padding-top: 10px;
+}

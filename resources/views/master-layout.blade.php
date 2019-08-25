@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('css/dl-dn_master.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/tk_master.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/dk_master.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/dn.css') }}">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <!--Font-awesome CSS -->

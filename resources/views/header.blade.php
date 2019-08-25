@@ -29,7 +29,7 @@
                     <a href="#" style="font-size: 15px;"> <i class="fas fa-bell"></i></a>
                     <a href="#"><span class="">Thông báo</span></a>
                     </li>
-                    <li><a href="{{ url('/tk_master') }}">Đăng nhập</a></li>
+                    <li><a href="{{ url('/dang-nhap') }}">Đăng nhập</a></li>
                     <li><a href="{{ url('/dk_master') }}">Đăng ký</a></li>
                   </ul>
                 </div>

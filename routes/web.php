@@ -29,7 +29,7 @@
 
 Route::get('/', function () {
     return view('pages.index');
-});
+})->name('trang-chu');
 Route::get('/colection', function () {
     return view('pages.colection');
 });
@@ -40,5 +40,8 @@ Route::get('/chi-tiet-san-pham', function () {
 Route::get('/san-pham', function () {
     return view('pages.sanpham');
 });
+Route::get('/dang-nhap', function () {
+    return view('pages.dn');
+})->name('dangnhap');
 
 
